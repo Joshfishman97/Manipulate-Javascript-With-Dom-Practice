@@ -99,7 +99,7 @@
         {
             "slug": "06-Create-DOM-Element-Second",
             "title": "06-Create-DOM-Element-Second",
-            "done": false,
+            "done": true,
             "path": "exercises/06-Create-DOM-Element-Second",
             "translations": [
                 "es",
@@ -110,7 +110,7 @@
         {
             "slug": "07-Create-DOM-list-of-li",
             "title": "07-Create-DOM-list-of-li",
-            "done": false,
+            "done": true,
             "path": "exercises/07-Create-DOM-list-of-li",
             "translations": [
                 "es",
@@ -121,7 +121,7 @@
         {
             "slug": "08-Remove-DOM-Element-part-one",
             "title": "08-Remove-DOM-Element-part-one",
-            "done": false,
+            "done": true,
             "path": "exercises/08-Remove-DOM-Element-part-one",
             "translations": [
                 "es",
