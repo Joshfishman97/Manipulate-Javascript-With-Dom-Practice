@@ -154,7 +154,7 @@
         {
             "slug": "11-Add-LI-on-Click",
             "title": "11-Add-LI-on-Click",
-            "done": false,
+            "done": true,
             "path": "exercises/11-Add-LI-on-Click",
             "translations": [
                 "es",
@@ -165,7 +165,7 @@
         {
             "slug": "12-Dynamic-HTML-String",
             "title": "12-Dynamic-HTML-String",
-            "done": false,
+            "done": true,
             "path": "exercises/12-Dynamic-HTML-String",
             "translations": [
                 "es",
