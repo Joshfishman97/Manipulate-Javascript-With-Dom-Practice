@@ -25,7 +25,7 @@ test("You should use the querySelector to select the element with #id parentLi",
 
     //and I expect the alert to be already called.
     expect(document.querySelector.mock.calls.length).toBe(1);
-    expect(document.querySelector).toHaveBeenCalledWith("#parentLi");
+    expect(document.querySelector).toHaveBeenCalledWith("#parentLI");
 
 });
 test('You have to use the childNodes property.', function () {

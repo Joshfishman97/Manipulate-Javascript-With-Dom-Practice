@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://cyan-aardvark-i7nq3qmi.ws-us11.gitpod.io",
+    "address": "https://moccasin-dragonfly-2k5z2dw1.ws-us11.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -132,7 +132,7 @@
         {
             "slug": "09-Remove-DOM-Element-part-two",
             "title": "09-Remove-DOM-Element-part-two",
-            "done": false,
+            "done": true,
             "path": "exercises/09-Remove-DOM-Element-part-two",
             "translations": [
                 "es",
@@ -143,7 +143,7 @@
         {
             "slug": "10-Render-on-Click",
             "title": "10-Render-on-Click",
-            "done": false,
+            "done": true,
             "path": "exercises/10-Render-on-Click",
             "translations": [
                 "es",
