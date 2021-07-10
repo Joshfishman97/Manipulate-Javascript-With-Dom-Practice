@@ -10,12 +10,14 @@ todo.addEventListener("keydown", function(event) {
 	}
 });
 
-let del = document.querySelector(".fa fa-trash");
-
-del.addEventListener("click", function(event) {
-	if (event === "click") {
-		let ul = document.querySelector("ul");
-		let li = document.createElement("li");
+let del = document.querySelectorAll(".fa.fa-trash");
+del.forEach(item => {
+	item.addEventListener("click", function(event) {
+		let ul = document.querySelector("ul");;
+		let li = this.parentNode.parentNode;
 		ul.removeChild(li);
-	}
+	});
 });
+//the event 
+
+
