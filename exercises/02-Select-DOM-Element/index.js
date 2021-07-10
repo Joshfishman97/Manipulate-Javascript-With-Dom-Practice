@@ -1,4 +1,2 @@
 let theTitle = document.querySelector("#theTitle");
-alert("theTitle")
-
-
+alert(theTitle.id);
