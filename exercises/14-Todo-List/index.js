@@ -18,6 +18,6 @@ del.forEach(item => {
 		ul.removeChild(li);
 	});
 });
-//the event 
+//the event looked at in the add lisnter above is the <i> tag
 
 
