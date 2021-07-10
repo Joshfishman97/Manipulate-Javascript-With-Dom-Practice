@@ -13,6 +13,7 @@ window.onload = function() {
 			let myCountry = myArray[i];
 			if (myCountry.selected) {
 				alert(myCountry.value);
+				
 			}
 		}
 	});

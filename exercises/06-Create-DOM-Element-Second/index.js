@@ -1,2 +1,2 @@
-document.body.innerHTML = "<img src="http://placehold.it/350x150"></img>";
 document.body.innerHTML = "<h1>Hello World</h1>";
+document.body.innerHTML = '<img src="https://i.picsum.photos/id/0/5616/3744.jpg?hmac=3GAAioiQziMGEtLbfrdbcoenXoWAW-zlyEAMkfEdBzQ">';
